@@ -1,0 +1,278 @@
+.fixheadresp .responsive {
+    display: none;
+}
+
+#form-search-resp {
+    display: none;
+}
+
+form.form-resp-ab button[type=submit] {
+    display: none;
+}
+
+#single .sidebar, form.form-resp-ab {
+    border-color: none;
+    background: none;
+    width: 100%;
+}
+
+form.form-resp-ab input[type=text] {
+    color: #fff;
+    background: #f2711c;
+}
+
+ul.abc {
+    width: 100%;
+    background: #f2711c;
+    white-space: nowrap;
+    overflow: auto;
+    text-align: center;
+}
+
+ul.abc li a {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 700;
+
+}
+
+ul.abc li a.select, ul.abc li a:hover {
+    color: #fff;
+}
+
+.yoastbread {
+    display: none
+}
+
+.module .content header span a.see-all {
+    background: #f2711c !important;
+    padding:8px 16px;
+    font-size: 1em;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.module .content header h1, .module .content header h2 {
+    color: #fff;
+    border-left: solid 0px #d33;
+    padding-left: 0px;
+}
+
+.homedesc {
+    display: none;
+}
+
+.sheader {
+    width: 100%;
+    float: none;
+    padding: 15px;
+    overflow: hidden
+}
+
+.sheader .poster {
+    float: left;
+    display: block;
+    padding-bottom: 16px;
+    width: 100%;
+    position: relative;
+}
+
+.sheader .poster img {
+    float: none;
+    width: auto;
+    border-radius: 6px;
+    display: block;
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;
+    height: 245px;
+}
+
+@media only screen and (max-width: 667px)
+.sheader .poster {
+    width:100%;
+}
+
+.sheader .data {
+    padding: 0;
+    width:100%;
+    float:left;
+    margin-left:0;
+}
+
+@media only screen and (max-width: 667px)
+.sheader .data {
+    width:100%
+    margin-left: 0;
+}
+
+.numerando {
+    display: none
+}
+#seasons .se-c .se-a ul.episodios li {
+    border: none;
+}
+#seasons .se-c .se-a ul.episodios li .episodiotitle {
+    float: none;
+    padding: 0px;
+    width: auto;
+    padding-left: 100px;
+}
+
+#seasons .se-c .se-a ul.episodios li .episodiotitle a {
+    width: 100%;
+    line-height: 20px;
+    float: left;
+    font-size: 1.4em;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.comments-area {
+    display: none;
+}
+
+.starstruck-wrap {
+    border-bottom: solid 1px transparent;
+    border-top: solid 1px transparent;
+}
+
+.dt_nodata, .starstruck-wrap .dt_rating_vgs {
+    background: #f2711c !important;
+    padding:8px 16px;
+    font-size: 1.2em;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+}
+
+.starstruck-wrap .dt_rating_vgs {
+}
+
+.icon-star3:before {
+    content: "\e8dc";
+    color: #fff;
+
+}
+
+.single_tabs {
+    display: none;
+    border-bottom: solid 3px tra;
+}
+
+.wp-content p {
+    font-size:1.2em;
+    color: #fff;
+}
+
+.resumotemp h2 {
+    display: none;
+}
+
+.imgep img {
+    border-radius:6px;
+    width: 100%;
+    height: auto;
+}
+
+.sgeneros a {
+    color: #fff;
+    border: solid 1px transparent;
+}
+
+
+.sgeneros a:hover {
+    color: #fff !important;
+}
+
+.sgeneros a {
+    font-size: 1.2em;
+    padding: 6px 10px;
+    font-weight: 500;
+    background: #f2711c;
+    border-radius: 6px;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.player a {
+ background: #f2711c !important;
+    padding:8px 16px;
+    font-size: 1em;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 700;
+    margin: 10px 0;
+    margin-right: 10px;
+}
+
+.icon-play_arrow:before {
+    content: "\e037";
+    background: #fff;
+    color: #f2711c;
+    border-radius: 10px;
+}
+
+#seasons .se-c .se-q {
+    background: none;
+    margin-bottom:none;
+    margin: 10px 0;
+}
+
+#seasons .se-c .se-a ul.episodios li .imagen img {
+    border-radius: 6px;
+}
+
+#seasons .se-c .se-q span.se-t {
+    background: #f2711c !important;
+    border-radius:6px;
+    font-weight:700;
+    border: none;
+}
+
+.sbox .wp-content p {
+    display: none;
+}
+
+#seasons .se-c .se-q span.title {
+    float: left;
+    padding: 13px 0;
+    font-size: 1.6em;
+    color: #fff;
+    width: 100%;
+    overflow: hidden;
+    font-weight: none;
+}
+
+#seasons .se-c .se-q span.title:hover {
+    color: #fff;
+}
+
+#seasons .se-c .se-a ul.episodios li .episodiotitle span.date {
+    color: #a0a0a0;
+    font-size: 1em;
+    margin-top: 5px;
+}
+
+.areaserie {
+    display: none;
+}
+
+.dt_mainmeta nav.releases ul li a {
+    background: #f2711c !important;
+    padding:16px 16px;
+    font-size: 1em;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.dt_mainmeta nav h2 {
+    display: none;
+}
